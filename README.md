@@ -3,6 +3,7 @@
 This repository provides a simple, open‑source alternative to **Text‑to‑Mic** – an AI‑powered tool that converts text into speech and plays it through both your speakers/headphones and a virtual microphone feed.  The goal of this project is to mirror the core functionality described in [Andrew Ward’s Text‑to‑Mic application](https://www.scorchsoft.com/blog/text-to-mic-for-meetings/), while remaining completely open source and avoiding any proprietary dependencies.
 
 Developed by: Kieran Spencer
+
 Check me out @ https://workflais.rf.gd/
 
 ## Features
