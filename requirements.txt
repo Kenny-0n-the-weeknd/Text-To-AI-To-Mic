@@ -1,0 +1,9 @@
+numpy
+scipy
+sounddevice
+openai
+pyttsx3
+whisper
+language_tool_python
+keyboard  # optional; not used in current GUI but can be used for global hotkeys
+requests
