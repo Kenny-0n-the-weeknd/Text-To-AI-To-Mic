@@ -2,6 +2,9 @@
 
 This repository provides a simple, open‑source alternative to **Text‑to‑Mic** – an AI‑powered tool that converts text into speech and plays it through both your speakers/headphones and a virtual microphone feed.  The goal of this project is to mirror the core functionality described in [Andrew Ward’s Text‑to‑Mic application](https://www.scorchsoft.com/blog/text-to-mic-for-meetings/), while remaining completely open source and avoiding any proprietary dependencies.
 
+Developed by: Kieran Spencer
+Check me out @ https://workflais.rf.gd/
+
 ## Features
 
 - **Text‑to‑Speech (TTS)** using OpenAI’s high quality voices (Alloy, Echo, Fable, Onyx, Nova and Shimmer) when an API key is supplied.  If no API key is provided, the program falls back to your system’s built‑in voices via the `pyttsx3` library.  The OpenAI API provides lifelike audio with multiple voices and supports real‑time streaming【123381020912997†L59-L80】.
@@ -59,4 +62,4 @@ The Whisper transcription and OpenAI speech synthesis operate on your local mach
 
 ## License
 
-This project is distributed under the MIT license.  Please review the license file for details.
+This project is distributed under the GNU General Public License v3.0 license.  Please review the license file for details.
